@@ -2,8 +2,8 @@ HTTPS://github.com/major650950/major650950.git
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/card
+[Bb]in/card 
 
 # Other files and folders
 .settings/
